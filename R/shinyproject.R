@@ -5,5 +5,5 @@ testFxn <- function(){
 
 #'@export
 launch_application <- function(){
-  shiny::runApp(appDir = )
+  shiny::runApp(appDir = system.file("application", package = "shinyproject"))
 }
