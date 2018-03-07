@@ -1,4 +1,5 @@
 # shinyproject
+[![Build Status](https://travis-ci.org/avidanalyst/shinyproject.svg?branch=master)](https://travis-ci.org/avidanalyst/shinyproject)
 
 The goal of shinyproject is to ...
 
