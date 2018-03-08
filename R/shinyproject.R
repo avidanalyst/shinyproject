@@ -8,6 +8,6 @@ testFxn <- function(){
 #'@title launcher
 #'@description shiny entry point
 #'@export
-launch_application <- function(){
+launch_application <- function(){ # nocov start
   shiny::runApp(appDir = system.file("application", package = "shinyproject"))
-}
+} # nocov end
