@@ -3,7 +3,7 @@ Title: Shiny Project For Avid Analyst Website
 Version: 0.0.0.9000
 Authors@R: person("Georg", "Onodi", email = "avidanalyst@gmail.com", role = c("aut", "cre"))
 Description: Functions for statistical analysis of broad macro trends
-Depends: R (>= 3.4.3)
+Depends: R (>= 3.4.2)
 License: MIT
 Encoding: UTF-8
 LazyData: true
