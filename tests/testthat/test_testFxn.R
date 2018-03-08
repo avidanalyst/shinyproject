@@ -1,4 +1,3 @@
 test_that("test fxn", {
-
-  testthat::expect_equal( testFxn(), TRUE )
+  testthat::expect_equal(testFxn(), TRUE)
 })
