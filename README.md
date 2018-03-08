@@ -1,5 +1,6 @@
 # shinyproject
 [![Build Status](https://travis-ci.org/avidanalyst/shinyproject.svg?branch=master)](https://travis-ci.org/avidanalyst/shinyproject)
+[![Coverage status](https://codecov.io/gh/avidanalyst/shinyproject/branch/master/graph/badge.svg)](https://codecov.io/github/avidanalyst/shinyproject?branch=master)
 
 The goal of shinyproject is to ...
 
