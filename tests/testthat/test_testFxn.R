@@ -1,1 +1,4 @@
-testthat::test_that("test")
+test_that("test fxn", {
+
+  expect_that( testFxn(), TRUE )
+})
