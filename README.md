@@ -16,8 +16,11 @@ devtools::install_github("avidanalyst/shinyproject")
 
 ## Example
 
-This is a basic example which shows you how to solve a common problem:
+This repo contains a sample skeleton for a R Shiny project, in the R-style package format. It can be used as a starting point for creating re-distributable shiny apps.
 
 ``` r
-## basic example code
+## devtools::load_all(shinyApp)
+shinyApp::launch_application()
+
+# voilla!
 ```
